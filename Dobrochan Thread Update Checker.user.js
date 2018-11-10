@@ -8,9 +8,7 @@
 // @grant       GM_getValue
 // @grant       unsafeWindow
 // @require     https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js
-// @homepage    https://github.com/Unknowny/dobroscript
-// @updateURL   https://github.com/Unknowny/dobroscript/raw/master/Dobrochan Thread Update Checker.user.js
-// @downloadURL https://github.com/Unknowny/dobroscript/raw/master/Dobrochan Thread Update Checker.user.js
+// @homepage    https://github.com/steve-melon/dobroscript
 // ==/UserScript==
 
 TODO:

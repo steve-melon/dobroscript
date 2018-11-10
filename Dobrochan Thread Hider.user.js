@@ -7,9 +7,7 @@
 // @grant       GM_setValue
 // @grant       GM_getValue
 // @require     https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js
-// @homepage    https://github.com/Unknowny/dobroscript
-// @downloadURL https://github.com/Unknowny/dobroscript/raw/master/Dobrochan Thread Hider.user.js
-// @updateURL   https://github.com/Unknowny/dobroscript/raw/master/Dobrochan Thread Hider.user.js
+// @homepage    https://github.com/steve-melon/dobroscript
 // ==/UserScript==
 
 // Shims, Helpers, Shortcuts //////////////////////////////////////////////////////////////////////

@@ -7,10 +7,8 @@
 // @grant       GM_getValue
 // @grant       GM_setValue
 // @require     https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js
-// @require     https://raw.githubusercontent.com/Unknowny/dobroscript/master/resources/moment-with-locales.min.js
-// @homepage    https://github.com/Unknowny/dobroscript
-// @updateURL   https://github.com/Unknowny/dobroscript/raw/master/Dobrochan Monitor.user.js
-// @downloadURL https://github.com/Unknowny/dobroscript/raw/master/Dobrochan Monitor.user.js
+// @require     https://raw.githubusercontent.com/steve-melon/dobroscript/master/resources/moment-with-locales.min.js
+// @homepage    https://github.com/steve-melon/dobroscript
 // ==/UserScript==
 
 // TODO:
@@ -51,7 +49,7 @@ var files_list_height_limit = 1000; // pixels
 var default_settings = {boards: ['b', 'azu'], filters: '', filter_files: false};
 var existing_boards = 'b u rf dt vg r cr lor mu oe s w hr a ma sw hau azu tv cp gf bo di vn ve wh fur to bg wn slow mad d news'.split(' ');
 var diff_url = location.origin + '/api/chan/stats/diff.json';
-var main_css_url = 'https://rawgit.com/Unknowny/dobroscript/master/resources/monitor.css?e';
+var main_css_url = 'https://rawgit.com/steve-melon/dobroscript/master/resources/monitor.css?e';
 // var main_css_url = 'http://127.0.0.1:8080/resources/monitor.css';
 
 // Shims, Helpers, Shortcuts //////////////////////////////////////////////////////////////////////

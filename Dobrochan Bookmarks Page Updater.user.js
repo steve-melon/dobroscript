@@ -6,9 +6,7 @@
 // @version     1.0.4
 // @grant       none
 // @require     https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js
-// @homepage    https://github.com/Unknowny/dobroscript
-// @updateURL   https://github.com/Unknowny/dobroscript/raw/master/Dobrochan Bookmarks Page Updater.user.js
-// @downloadURL https://github.com/Unknowny/dobroscript/raw/master/Dobrochan Bookmarks Page Updater.user.js
+// @homepage    https://github.com/steve-melon/dobroscript
 // ==/UserScript==
 
 var d = document,

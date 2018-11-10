@@ -5,9 +5,7 @@
 // @include     *dobrochan.*
 // @version     1.0.4
 // @grant       none
-// @homepage    https://github.com/Unknowny/dobroscript
-// @updateURL   https://github.com/Unknowny/dobroscript/raw/master/Dobrochan Reply Links.user.js
-// @downloadURL https://github.com/Unknowny/dobroscript/raw/master/Dobrochan Reply Links.user.js
+// @homepage    https://github.com/steve-melon/dobroscript
 // ==/UserScript==
 
 // this is beyond bad quality, ples don't look

@@ -5,9 +5,7 @@
 // @include     *dobrochan.*
 // @version     1.0.4
 // @grant       none
-// @homepage    https://github.com/Unknowny/dobroscript
-// @updateURL   https://github.com/Unknowny/dobroscript/raw/master/Dobrochan Reply Links Lite.user.js
-// @downloadURL https://github.com/Unknowny/dobroscript/raw/master/Dobrochan Reply Links Lite.user.js
+// @homepage    https://github.com/steve-melon/dobroscript
 // ==/UserScript==
 
 ParseUrl = function (url) { // Hanabira's ParseUrl() is broken
